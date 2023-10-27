@@ -145,7 +145,7 @@
                             <div class="white_card_header">
                                 <div class="box_header m-0">
                                     <div class="main-title">
-                                        <h3 class="m-0">Sales of the last week</h3>
+                                        <h3 class="m-0">Sales of the week</h3>
                                     </div>
                                     <div class="header_more_tool dropInr">
                                         <div class="dropdown">
